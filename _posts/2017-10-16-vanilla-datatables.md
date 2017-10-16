@@ -6,6 +6,6 @@ ie8: false
 ie9: true
 ie10: true
 categories: [Table, Datatables, Sorting, Filter]
-tags: [datatables, jquery-datatables]
+tags: [tables, datatables, jquery-datatables]
 ---
 A lightweight, extendable, dependency-free javascript HTML table plugin.
